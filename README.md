@@ -48,3 +48,6 @@ Sebagai user, anda dapat melakukan hal-hal berikut:
 - Melihat daftar buku yang dipinjam
 - Mengembalikan buku yang sudah dipinjam
 - Melihat profil dan mengubah password
+
+## Lisensi
+Aplikasi ini dilisensikan di bawah [MIT License].
