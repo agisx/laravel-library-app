@@ -28,18 +28,9 @@ Langkah-langkah instalasi adalah sebagai berikut:
 
 Setelah menjalankan server lokal, anda dapat mengakses aplikasi di http://localhost:8000
 Untuk sementara ini fitur user saja yang masih tersedia.
-Anda dapat login sebagai admin atau user dengan menggunakan email dan password berikut:
+Contohnya anda dapat login sebagai user dengan menggunakan email dan password berikut:
 
-- Admin: admin@example.com / password
 - User: user@example.com / password
-
-Sebagai admin, anda dapat melakukan hal-hal berikut:
-
-- Melihat daftar buku yang tersedia di perpustakaan
-- Menambahkan, mengedit, atau menghapus buku
-- Melihat daftar peminjaman buku oleh pengguna
-- Mengkonfirmasi atau membatalkan peminjaman buku
-- Melihat profil dan mengubah password
 
 Sebagai user, anda dapat melakukan hal-hal berikut:
 
